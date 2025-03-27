@@ -1,0 +1,20 @@
+# Core packages
+transformers==4.39.1
+sentence-transformers==2.6.1
+faiss-cpu==1.7.4
+PyMuPDF==1.23.21
+beautifulsoup4==4.12.3
+
+# UI Framework
+streamlit==1.32.2
+
+# Token counting & text splitting
+tiktoken==0.6.0
+nltk==3.8.1
+
+# Optional (for advanced OCR/pdf table/image parsing)
+pdfplumber==0.10.2
+Pillow==10.2.0
+
+# General utilities
+numpy==1.26.4

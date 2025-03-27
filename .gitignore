@@ -1,0 +1,10 @@
+# Ignore Python virtual environments
+rag_env/
+
+# Optional: ignore typical Python clutter
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+.ipynb_checkpoints/
